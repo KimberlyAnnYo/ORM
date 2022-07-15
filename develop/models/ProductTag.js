@@ -29,8 +29,9 @@ ProductTag.init(
     freezeTableName: true,
     underscored: true,
     modelName: 'product',
-}
-  },
+},
+
+  
   {
     sequelize,
     timestamps: false,
