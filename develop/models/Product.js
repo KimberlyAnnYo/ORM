@@ -54,4 +54,4 @@ Product.init(
 );
 
 Product.belongsTo(Category, { foreignKey: 'category_id'});
-module.exports = Product;
+module.exports = Product
